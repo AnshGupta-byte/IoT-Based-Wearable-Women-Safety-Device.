@@ -4,7 +4,7 @@ About "We built a wearable IoT safety device — disguised as an accessory — t
 - Team Name : Safeline
 - Team Members :
 - - Aryan Praful Patil
-  - Arpit Jiaswal
+  - Arpit Jaiswal
   - Ansh Kumar Gupta
   - Rahul Suman
 ---
